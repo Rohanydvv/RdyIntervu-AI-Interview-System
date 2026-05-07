@@ -109,11 +109,12 @@ http://localhost:3000
 ## Project Structure
 
 ```bash
-app/
-components/
-constants/
-lib/
-public/
+app/            # Next.js routes
+components/     # Reusable UI components
+firebase/       # Firebase configuration
+lib/             # Utility functions
+prisma/         # Database schema
+public/         # Static assets
 ```
 
 ---
