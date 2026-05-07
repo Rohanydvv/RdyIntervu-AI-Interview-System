@@ -121,29 +121,23 @@ public/
 ## Core Modules
 
 ### AI Interview Generation
+
 Dynamic interview generation based on:
+
 - Role
 - Experience level
 - Tech stack
 - Interview type
 
 ### AI Feedback System
+
 Performance analysis including:
+
 - Communication
 - Technical knowledge
 - Problem-solving
 - Confidence
 - Overall assessment
-
----
-
-## Screenshots
-
-Add screenshots inside:
-
-```bash
-/public/screenshots
-```
 
 ---
 
